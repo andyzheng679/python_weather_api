@@ -7,7 +7,7 @@ import requests
 # PUT = save an object at the location
 # DELETE = delete the object at the location
 
-API_KEY = "41cbf48bcfd9a75a3beaab228c2a9e13"
+API_KEY = ""
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
